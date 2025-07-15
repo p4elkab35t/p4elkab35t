@@ -7,7 +7,7 @@
 
 ---
 
-💻 I'm a developer with a passion for systems thinking, clever microservice architecture, and just enough chaos to build weird bots and beautiful tools.  
+💻 I'm a developer with a passion for clever microservice architecture, system-thinking, cutting-edge technologies, blazingly fast perfomance, buzzword, buzzword, buzzword, buzzword and just enough chaos to build weird bots and beautiful tools.  
 Currently based in 🇨🇦 Canada, originally from 🇷🇺 Russia.
 
 I work with:
