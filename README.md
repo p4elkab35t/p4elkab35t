@@ -19,8 +19,8 @@
 💻 I'm a developer with a passion for clever microservice architecture, system-thinking, cutting-edge technologies, blazingly fast perfomance, buzzword, buzzword, buzzword, buzzword and just enough chaos to build weird bots and beautiful tools.  
 Currently based in 🇨🇦 Canada, originally from 🇷🇺 Russia.
 
-I work with:
-> `Go` • `TypeScript` • `Svelte` • `Next.js` • `TailwindCSS` • `Bun` • `Docker` • `SQL` • `Git`
+Main Tech Stack:
+> `Go` • `TypeScript` • `Svelte` • `React` • `TailwindCSS` • `Bun` • `Docker` • `SQL` • `Git`
 
 ---
 
