@@ -1,9 +1,18 @@
 # 👋 Hi, I'm Pavel Fedorov
 
-[![GitHub followers](https://img.shields.io/github/followers/p4elkab35t?label=Follow&style=social)](https://github.com/p4elkab35t)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-pavelfedorovdev-blue?logo=linkedin)](https://www.linkedin.com/in/pavelfedorovdev/)
-[![Email](https://img.shields.io/badge/email-pavel.fedorov.dev@gmail.com-red?logo=gmail)](mailto:pavel.fedorov.dev@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=p4elkab35t&style=flat&color=blue)
+<p align="center">
+  <a href="https://github.com/p4elkab35t" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/github/followers/p4elkab35t?label=Follow&style=for-the-badge&logo=github" alt="GitHub Followers" />
+  </a>
+  <a href="https://www.linkedin.com/in/pavelfedorovdev/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-pavelfedorovdev-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="mailto:pavel.fedorov.dev@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-pavel.fedorov.dev@gmail.com-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=p4elkab35t&style=for-the-badge&color=blue" alt="Profile Views" />
+</p>
+
 
 ---
 
